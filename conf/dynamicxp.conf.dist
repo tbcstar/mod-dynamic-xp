@@ -2,7 +2,7 @@
 
 ################################################################################################################
 #    Dynamic.XP.Rate
-#        Description: You can setup the personal XP rate for different level ranges.
+#        Description: 您可以设置不同级别范围的个人 XP 比率。
 #
 #        Dynamic.XP.Rate.Announce: 1 (Enable) Default
 #                                  0 (Disable)
@@ -10,8 +10,8 @@
 #        Dynamic.XP.Rate: 1 (Enable) Default
 #                         0 (Disable)
 #
-#        Dynamic.XP.Rate.X-X: 1+ (Set a custom XP rate on that level range)
-#                             0  (Reset custom XP rate to default on that level range)
+#        Dynamic.XP.Rate.X-X: 1+ (在该级别范围内设置自定义 XP 比率)
+#                             0  (将自定义 XP 比率重置为该级别范围内的默认值)
 #
 Dynamic.XP.Rate.Announce = 1
 
@@ -19,10 +19,10 @@ Dynamic.XP.Rate = 1
 
 Dynamic.XP.Rate.1-9 = 1
 Dynamic.XP.Rate.10-19 = 2
-Dynamic.XP.Rate.20-29 = 3
-Dynamic.XP.Rate.30-39 = 4
-Dynamic.XP.Rate.40-49 = 5
-Dynamic.XP.Rate.50-59 = 6
-Dynamic.XP.Rate.60-69 = 7
-Dynamic.XP.Rate.70-79 = 8
+Dynamic.XP.Rate.20-29 = 2
+Dynamic.XP.Rate.30-39 = 2
+Dynamic.XP.Rate.40-49 = 2
+Dynamic.XP.Rate.50-59 = 2
+Dynamic.XP.Rate.60-69 = 1
+Dynamic.XP.Rate.70-79 = 1
 ##################################################################################################################
